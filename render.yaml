@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: treasury-fx-payment-control-api
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    autoDeploy: false
+    envVars:
+      - key: PORT
+        value: "8000"

@@ -1,0 +1,10 @@
+{
+  "base_currency": "EUR",
+  "as_of_date": "2026-11-23",
+  "payments": [
+    {"payment_id": "PAY-1001", "supplier_id": "SUP-0001", "invoice_number": "INV-A-0001", "currency": "USD", "amount": 12500.00, "due_date": "2026-12-10", "contracted_fx_rate": 1.10, "beneficiary_country": "US", "supplier_status": "ACTIVE"},
+    {"payment_id": "PAY-1002", "supplier_id": "SUP-0002", "invoice_number": "INV-B-0417", "currency": "GBP", "amount": 8200.50, "due_date": "2026-12-15", "contracted_fx_rate": 0.84, "beneficiary_country": "GB", "supplier_status": "ACTIVE"},
+    {"payment_id": "PAY-1003", "supplier_id": "SUP-0003", "invoice_number": "INV-C-2201", "currency": "JPY", "amount": 1850000, "due_date": "2026-12-20", "contracted_fx_rate": 174.5, "beneficiary_country": "JP", "supplier_status": "ACTIVE"},
+    {"payment_id": "PAY-1004", "supplier_id": "SUP-0004", "invoice_number": "INV-D-0090", "currency": "CHF", "amount": 4300.00, "due_date": "2026-12-12", "contracted_fx_rate": 0.92, "beneficiary_country": "CH", "supplier_status": "ACTIVE"}
+  ]
+}

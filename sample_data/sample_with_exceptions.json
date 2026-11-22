@@ -1,0 +1,14 @@
+{
+  "base_currency": "EUR",
+  "as_of_date": "2026-11-23",
+  "payments": [
+    {"payment_id": "PAY-2001", "supplier_id": "SUP-0001", "invoice_number": "INV-A-0001", "currency": "USD", "amount": 12500.00, "due_date": "2026-12-10", "contracted_fx_rate": 1.10, "beneficiary_country": "US", "supplier_status": "ACTIVE"},
+    {"payment_id": "PAY-2002", "supplier_id": "SUP-0001", "invoice_number": "INV-A-0001", "currency": "USD", "amount": 12500.00, "due_date": "2026-12-10", "contracted_fx_rate": 1.10, "beneficiary_country": "US", "supplier_status": "ACTIVE"},
+    {"payment_id": "PAY-2003", "supplier_id": "SUP-0005", "invoice_number": "INV-E-0310", "currency": "GBP", "amount": -300.00, "due_date": "2026-12-15", "contracted_fx_rate": 0.84, "beneficiary_country": "GB", "supplier_status": "ACTIVE"},
+    {"payment_id": "PAY-2004", "supplier_id": "SUP-0006", "invoice_number": "INV-F-0777", "currency": "XYZ", "amount": 900.00, "due_date": "2026-12-15", "contracted_fx_rate": 1.00, "beneficiary_country": "DE", "supplier_status": "ACTIVE"},
+    {"payment_id": "PAY-2005", "supplier_id": "SUP-0007", "invoice_number": "INV-G-0123", "currency": "USD", "amount": 7000.00, "due_date": "2026-12-15", "contracted_fx_rate": 1.10, "beneficiary_country": "US", "supplier_status": "FROZEN"},
+    {"payment_id": "PAY-2006", "supplier_id": "SUP-0008", "invoice_number": "INV-H-0555", "currency": "USD", "amount": 20000.00, "due_date": "2026-12-15", "contracted_fx_rate": 1.30, "beneficiary_country": "US", "supplier_status": "ACTIVE"},
+    {"payment_id": "PAY-2007", "supplier_id": "SUP-0009", "invoice_number": "INV-I-0888", "currency": "CHF", "amount": 250000.00, "due_date": "2026-11-01", "contracted_fx_rate": 0.92, "beneficiary_country": "CH", "supplier_status": "PENDING_REVIEW"},
+    {"payment_id": "PAY-2008", "supplier_id": "SUP-0010", "currency": "USD", "amount": 1000.00, "due_date": "2026-12-15", "contracted_fx_rate": 1.10, "beneficiary_country": "US", "supplier_status": "ACTIVE"}
+  ]
+}
